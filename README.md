@@ -27,9 +27,9 @@ npm install react-responsive-carousel
 
 ---
 
-## [Codesandbox](https://codesandbox.io/s/creating-dark-theme-using-react-hooks-and-context-in-material-ui-j8gitj?file=/src/App.js)
-
 ## <a href="https://codesandbox.io/s/creating-dark-theme-using-react-hooks-and-context-in-material-ui-j8gitj?file=/src/App.js" target="_blank">Codesandbox Link</a>
+
+---
 
 <img src="./src/assets/image/light.jpg" align="center" widht="800px" height="600px">
 <img src="./src/assets/image/dark.jpg" align="center" widht="800px" height="600px">
